@@ -2,7 +2,7 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-This app randomizes prompts given to it. The app has one default set of prompts themed around music, but custom prompts can be added via the app. You can try the app [here](https://attepee.github.io/music-game/) (only in finnish for now).
+This app randomizes prompts given to it. The app has one default set of prompts themed around music, but custom prompts can be added via the app. You can try the app [here](https://attepee.github.io/task-randomizer/) (only in finnish for now).
 
 The default set of prompts, "the music game", gives prompts for playing music. Perfect when you want to get to know someone's taste in music or when hanging out with friends and you want something to do but playing some real game seems too much. The app gives prompts like "song you have sung in karaoke", "song you never get tired of" and "song that you used to love as a child" in randomized order and then you just play some song that fits the prompt.
 
