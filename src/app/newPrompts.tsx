@@ -70,7 +70,7 @@ export default function Index() {
         <Text style={Styles.titleText}>{STRINGS.TITLE_NEW_TASKS.fi}</Text>
         <View style={Styles.pairButtonContainer}>
           <Pressable style={[Styles.linkButton, Styles.saveButton]} onPress={() => storePrompts()}>
-            <Link href="..">
+            <Link href="/">
               <Text style={Styles.buttonText}>{STRINGS.RETURN.fi}</Text>
             </Link>
           </Pressable>

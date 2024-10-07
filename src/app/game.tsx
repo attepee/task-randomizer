@@ -70,7 +70,7 @@ export default function Game() {
       }
       {
         showGameEndText &&
-        <Link href=".." style={Styles.gameButton}>
+        <Link href="/" style={Styles.gameButton}>
           <Pressable style={Styles.gameButton}>
             <Text style={Styles.gameText}>{STRINGS.END_GAME_PROMPT.fi}</Text>
           </Pressable>
